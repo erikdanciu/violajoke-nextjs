@@ -109,7 +109,7 @@ export default function HomePage() {
       {isLimitReached ? (
         <div className="mb-12 rounded-lg border-2 border-viola-accent bg-rose-50 p-6 text-center">
           <h2 className="text-2xl font-bold text-viola-dark mb-3">Daily Limit Reached</h2>
-          <p className="text-gray-700 mb-4">You've enjoyed 10 free jokes today. Get unlimited access:</p>
+          <p className="text-gray-700 mb-4">You&apos;ve enjoyed 10 free jokes today. Get unlimited access:</p>
           <Link
             href="/premium"
             className="inline-block rounded-lg bg-viola-accent px-8 py-3 text-lg font-bold text-white transition-colors hover:bg-rose-600"

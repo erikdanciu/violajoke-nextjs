@@ -152,8 +152,8 @@ export default function PremiumPage() {
             <p className="text-gray-600">Yes! Try premium features free for 7 days.</p>
           </div>
           <div>
-            <h3 className="font-bold text-gray-800 mb-2">What if I don't like premium?</h3>
-            <p className="text-gray-600">Email support@violajoke.com and we'll refund your money within 30 days.</p>
+            <h3 className="font-bold text-gray-800 mb-2">What if I don&apos;t like premium?</h3>
+            <p className="text-gray-600">Email support@violajoke.com and we&apos;ll refund your money within 30 days.</p>
           </div>
         </div>
       </div>

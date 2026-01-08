@@ -108,7 +108,7 @@ export function JokeCard({ joke, showAuthor = true }: JokeCardProps) {
               onClick={handleFavorite}
               disabled={isLoadingFav}
               className="rounded-lg bg-viola-light px-4 py-2 text-sm font-medium text-viola-dark transition-colors hover:bg-viola-purple hover:text-white whitespace-nowrap disabled:opacity-50"
-              title={user ? 'Add to favorites' : 'Sign in to favorite'}
+              title={user ? "Add to favorites" : "Sign in to favorite"}
             >
               {isFavorited ? '❤️ Favorited' : '🤍 Favorite'}
             </button>
